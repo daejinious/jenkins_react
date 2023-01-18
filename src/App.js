@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is CI/CD TEST!!
+          This is CI/CD TEST2!!
         </a>
       </header>
     </div>
