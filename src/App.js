@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jenkins Test Test2 Test!!!!
-          haha
+          This is CI/CD!!
         </a>
       </header>
     </div>
